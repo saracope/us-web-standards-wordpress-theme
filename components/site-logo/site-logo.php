@@ -1,0 +1,1 @@
+<?php us_web_standards_the_site_logo(); ?>
